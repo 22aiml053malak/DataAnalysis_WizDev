@@ -1,0 +1,101 @@
+Payment_Mode,Total_Transactions_count,Total_Amount,Quarter,Year,Country
+Recharge & bill payments,72550406,14472713559,1,2018,india
+Peer-to-peer payments,46982705,1.47E+11,1,2018,india
+Merchant payments,5368669,4656678915,1,2018,india
+Financial Services,3762820,815853105.1,1,2018,india
+Others,5761576,4643217301,1,2018,india
+Recharge & bill payments,92033715,24351225616,2,2018,india
+Peer-to-peer payments,74558816,2.65E+11,2,2018,india
+Merchant payments,10613941,9052859939,2,2018,india
+Financial Services,5186569,1176991419,2,2018,india
+Others,4973199,5027454207,2,2018,india
+Peer-to-peer payments,202021587,4.26E+11,3,2018,india
+Recharge & bill payments,102290514,31364311860,3,2018,india
+Merchant payments,25175938,12433150985,3,2018,india
+Financial Services,6218596,891447809.4,3,2018,india
+Others,5594554,4449556278,3,2018,india
+Peer-to-peer payments,200235002,5.95E+11,4,2018,india
+Recharge & bill payments,131917248,39578607327,4,2018,india
+Merchant payments,71498510,30497289208,4,2018,india
+Financial Services,5216165,868584631.6,4,2018,india
+Others,8246415,5802659774,4,2018,india
+Peer-to-peer payments,404841331,8.88E+11,1,2019,india
+Recharge & bill payments,180504739,55473071029,1,2019,india
+Merchant payments,110496541,40575915113,1,2019,india
+Financial Services,4627353,603852042,1,2019,india
+Others,8526177,5484252455,1,2019,india
+Peer-to-peer payments,384711008,1.20E+12,2,2019,india
+Recharge & bill payments,209898072,76865848587,2,2019,india
+Merchant payments,206467182,73415840740,2,2019,india
+Financial Services,2650384,545329308.1,2,2019,india
+Others,11656557,6969423864,2,2019,india
+Peer-to-peer payments,461911865,1.44E+12,3,2019,india
+Merchant payments,376320628,1.23E+11,3,2019,india
+Recharge & bill payments,240103872,1.02E+11,3,2019,india
+Financial Services,2870292,617120839.9,3,2019,india
+Others,13804992,6705143104,3,2019,india
+Peer-to-peer payments,703497002,1.96E+12,4,2019,india
+Merchant payments,456578271,1.74E+11,4,2019,india
+Recharge & bill payments,285310032,1.16E+11,4,2019,india
+Financial Services,2476840,551204225.4,4,2019,india
+Others,12583379,4811822510,4,2019,india
+Peer-to-peer payments,693998661,2.32E+12,1,2020,india
+Merchant payments,566355270,2.31E+11,1,2020,india
+Recharge & bill payments,351300991,1.40E+11,1,2020,india
+Financial Services,1358171,773848137,1,2020,india
+Others,10027019,4116905196,1,2020,india
+Peer-to-peer payments,631031364,2.24E+12,2,2020,india
+Recharge & bill payments,448842692,1.72E+11,2,2020,india
+Merchant payments,363275861,2.27E+11,2,2020,india
+Financial Services,1682062,1751767444,2,2020,india
+Others,3779461,1987466180,2,2020,india
+Peer-to-peer payments,916790263,3.29E+12,3,2020,india
+Merchant payments,672019839,4.05E+11,3,2020,india
+Recharge & bill payments,436172619,2.04E+11,3,2020,india
+Financial Services,2531978,2673063433,3,2020,india
+Others,5541374,2789907564,3,2020,india
+Peer-to-peer payments,1249512647,4.47E+12,4,2020,india
+Merchant payments,1127490136,6.85E+11,4,2020,india
+Recharge & bill payments,479784084,2.28E+11,4,2020,india
+Financial Services,2942567,3259168196,4,2020,india
+Others,9556404,5323095366,4,2020,india
+Merchant payments,1467948823,8.44E+11,1,2021,india
+Peer-to-peer payments,1447600942,5.17E+12,1,2021,india
+Recharge & bill payments,530118545,2.60E+11,1,2021,india
+Financial Services,3075296,3573884779,1,2021,india
+Others,8851525,5199901892,1,2021,india
+Peer-to-peer payments,1744272888,6.16E+12,2,2021,india
+Merchant payments,1499626469,1.00E+12,2,2021,india
+Recharge & bill payments,685024821,3.01E+11,2,2021,india
+Financial Services,3397384,3651996523,2,2021,india
+Others,9061732,5598131365,2,2021,india
+Merchant payments,2316924871,1.43E+12,3,2021,india
+Peer-to-peer payments,2215575286,7.43E+12,3,2021,india
+Recharge & bill payments,714583744,3.49E+11,3,2021,india
+Financial Services,3112160,4043342762,3,2021,india
+Others,13558464,7146868847,3,2021,india
+Merchant payments,3152394530,2.00E+12,4,2021,india
+Peer-to-peer payments,2716561423,9.20E+12,4,2021,india
+Recharge & bill payments,738096162,4.07E+11,4,2021,india
+Financial Services,4141629,5028434834,4,2021,india
+Others,14562602,9296993479,4,2021,india
+Merchant payments,3748851071,2.27E+12,1,2022,india
+Peer-to-peer payments,3074250150,1.05E+13,1,2022,india
+Recharge & bill payments,749674246,4.48E+11,1,2022,india
+Financial Services,4035100,4921211866,1,2022,india
+Others,16393502,8422766458,1,2022,india
+Merchant payments,4765203787,2.85E+12,2,2022,india
+Peer-to-peer payments,3506141323,1.21E+13,2,2022,india
+Recharge & bill payments,845751926,5.23E+11,2,2022,india
+Financial Services,3272822,3889787480,2,2022,india
+Others,11241480,6711034131,2,2022,india
+Merchant payments,5618132071,3.15E+12,3,2022,india
+Peer-to-peer payments,3957113406,1.28E+13,3,2022,india
+Recharge & bill payments,956164949,6.07E+11,3,2022,india
+Financial Services,3959631,4514223164,3,2022,india
+Others,10005043,6725900103,3,2022,india
+Merchant payments,6565690145,3.67E+12,4,2022,india
+Peer-to-peer payments,4459859921,1.46E+13,4,2022,india
+Recharge & bill payments,991049281,6.50E+11,4,2022,india
+Financial Services,4623387,5360528394,4,2022,india
+Others,10013085,7361492607,4,2022,india
